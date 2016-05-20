@@ -1,0 +1,45 @@
+.pic {
+  width: 50px;
+  height:50px;
+    border-radius: 50%;
+   
+}
+
+.inicialka {
+position: relative;
+font-size: 28px;
+Left: -47px;
+  top: -15px;
+color:whitesmoke
+}
+
+.desno {
+  float: right; 
+    Left: -0px; <!-- Tule sem ostal in ne vem, kako naj naredim, da bo cela vrstica šla malo bolj v LEVO -->
+}
+
+.Prijavna-vrstica {
+position: relative;
+float: right;      
+Left: -200px;
+top: 20px;
+}
+
+.slika-google {
+position: relative;     
+Left: 0px;
+top: 300px;
+    display: inline-block;
+    left: 42%;
+}
+
+.gumb{
+ position: relative;     
+Left: 0px;
+top: 20px;
+    display: inline-block;
+    left: -52%;  
+    width: 150px;
+    
+    
+}
